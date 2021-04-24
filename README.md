@@ -1,16 +1,9 @@
-# bmicalculator
+# Neumorphism Bmi Calculator
 
-A new Flutter project.
+Neumorphism combines developments of flat design and skeuomorphism. Neumorphism, or soft UI, is a visual style that combines background colors, shapes, gradients, highlights, and shadows to ensure graphic intense buttons and switches. All that allows achieving a soft, extruded plastic look, and almost 3D styling.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/71687063/115913326-e5559c80-a489-11eb-8aea-bc1acc0d6c9f.mp4
 
-A few resources to get you started if this is your first Flutter project:
+![untitled (7)](https://user-images.githubusercontent.com/71687063/115913335-e981ba00-a489-11eb-8881-cb05832a59d8.jpg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
