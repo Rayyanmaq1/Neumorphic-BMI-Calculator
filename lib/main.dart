@@ -8,12 +8,7 @@ import 'package:flutter_neumorphic/flutter_neumorphic.dart';
 import 'package:get/get.dart';
 
 void main() {
-  runApp(
-    DevicePreview(
-      enabled: true,
-      builder: (context) => MyApp(), // Wrap your app
-    ),
-  );
+  runApp(MyApp());
 }
 
 class MyApp extends StatelessWidget {
@@ -27,8 +22,6 @@ class MyApp extends StatelessWidget {
         ]);
         return NeumorphicApp(
           debugShowCheckedModeBanner: false,
-          locale: DevicePreview.locale(context), // Add the locale here
-          builder: DevicePreview.appBuilder, // Add the builder
 
           themeMode: ThemeMode.light,
 

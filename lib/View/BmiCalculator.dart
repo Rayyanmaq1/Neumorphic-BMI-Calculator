@@ -198,7 +198,7 @@ class _BmiCalCulatorState extends State<BmiCalCulator> {
             ),
           ),
           Stack(
-            alignment: Alignment.bottomCenter,
+            alignment: Alignment.topCenter,
             children: [
               Container(
                 width: MediaQuery.of(context).size.width,
@@ -613,6 +613,7 @@ class _BmiCalCulatorState extends State<BmiCalCulator> {
             Container(
               width: SizeConfig.heightMultiplier * 10,
               height: SizeConfig.heightMultiplier * 8,
+              decoration: BoxDecoration(shape: BoxShape.circle),
             ),
             Buttons(
               number: '0',
